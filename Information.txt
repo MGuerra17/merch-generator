@@ -1,0 +1,38 @@
+Prompt:
+A realistic red dragon fighting with a men
+
+Url: 
+https://oaidalleapiprodscus.blob.core.windows.net/private/org-uqEQSVjWbmNdQ82mjYKkZhHH/user-9SI2V1m4jDCJGrdQRU4afnuC/img-9OMjYbiHtGucMyI4XSsuGh8s.png?st=2023-02-25T21%3A42%3A43Z&se=2023-02-25T23%3A42%3A43Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-02-25T11%3A07%3A21Z&ske=2023-02-26T11%3A07%3A21Z&sks=b&skv=2021-08-06&sig=UgxHYIxmYHX4FuQH1gMQGcrH1F6mWphKl6cFojrC2ls%3D
+
+https://res.cloudinary.com/dtp9alejv/image/upload/v1677538915/mdqbmsmtzeqt4ji5xf9i.png
+
+Pages: ( - Options )
+
+1) Home ✅
+2) Select Source:
+  - Have created design: 👍
+    1.1) Select file and upload to Cloudinary 👍 
+  - Create design using IA 👌
+    1.1) Write prompt manually and generate image or generate image with assistance
+    1.2) Select design between options and upload to Cloudinary
+
+3) Show image and ask for modifications (crop, resize, filter, add text, blur, background, etc)
+4) Select objects to generate previews (Sorted by category like "clothes" or "mug" etc...) (Cards)
+5) Show final image and objects generated (Download everything in zip file)
+
+
+GENERATE GOOD PROMPTS:
+
+- QUALITY: 4K, 8K, HIGH-QUALITY, TRENDING, AWARD-WINNING, ACCLAIMED, ON ARTSTATION, ETC.
+
+- YEARS: 1924, late-90s, etc.
+
+- ARTIST: by Picasso, 
+
+- TYPE OF ART: colorful, geometric, cubist, 
+
+
+
+URL RESULT:
+
+https://res.cloudinary.com/dtp9alejv/image/upload/l_cdhxjlax3lk3c0gkh34y.png,w_500,h_500,x_-10,y_-120,o_90/yetyjjyg2fe1jze1tn70.png
